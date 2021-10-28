@@ -1,8 +1,16 @@
 # miqra-data
 
-Github copy of Tanakh data used for 
+Text of the _Tanakh_ (Jewish Bible), with various formatting and notation, derived from the same source as  
 [the Miqra al pi ha-Masorah edition of the Hebrew Bible on Hebrew Wikisource](https://he.wikisource.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%98%D7%A2%D7%9E%D7%99_%D7%94%D7%9E%D7%A7%D7%A8%D7%90).
 
+Some of the scripts used to create these files can be found at https://github.com/marcstober/miqra-scripts.
+
+
+## Contents
+
+### miqra-json
+
+This is a formatted copy of files from https://github.com/bdenckla/MAM-parsed/tree/main/miqra-json.
 
 ## License
 
