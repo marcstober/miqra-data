@@ -13,7 +13,7 @@ Some of the scripts used to create these files can be found at https://github.co
 This is a copy of files from [bdenckla's MAM-parsed repository](https://github.com/bdenckla/MAM-parsed). 
 As of March 2024, this is an exact copy of the 24 files, one for each book in the traditional enumeration of 24 books.
 Specifically, this is a copy of the "[plus](https://github.com/bdenckla/MAM-parsed/tree/main/plus)" version of the data from that repository.
-A new file, `book24names.json`, maps the 24 books to the 6 files (in on traditional grouping of those books) in the old version of the data.
+A new file, `book24names.json`, maps the 24 books to the 6 files (in a traditional grouping of those books) in the old version of the data.
 
 ## License
 
