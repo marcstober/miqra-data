@@ -1,6 +1,8 @@
 # miqra-data
 
-Text of the _Tanakh_ (Jewish Bible), with various formatting and notation, derived from the same source as  
+Text of the _Tanakh_ (Jewish Bible), with various formatting and notation, based on [Rabbi Seth (Avi) 
+Kadish's "Miqra al pi ha-Masorah" version of the Tanakh (on Google Sheets)](https://docs.google.com/spreadsheets/d/1mkQyj6by1AtBUabpbaxaZq9Z2X3pX8ZpwG91ZCSOEYs/edit?usp=sharing) 
+which is the source of 
 [the Miqra al pi ha-Masorah edition of the Hebrew Bible on Hebrew Wikisource](https://he.wikisource.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%98%D7%A2%D7%9E%D7%99_%D7%94%D7%9E%D7%A7%D7%A8%D7%90).
 
 Some of the scripts used to create these files can be found at https://github.com/marcstober/miqra-scripts.
