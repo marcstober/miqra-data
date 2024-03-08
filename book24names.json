@@ -2,121 +2,145 @@
     {
         "book24_name": "מגילת שיר השירים",
         "mam_parsed_file_stem": "Song of Songs",
-        "mam_parsed_file_stem_old": "MAM-ChamMeg"
+        "mam_parsed_file_stem_old": "MAM-ChamMeg",
+        "number": 17
     },
     {
         "book24_name": "מגילת רות",
         "mam_parsed_file_stem": "Ruth",
-        "mam_parsed_file_stem_old": "MAM-ChamMeg"
+        "mam_parsed_file_stem_old": "MAM-ChamMeg",
+        "number": 18
     },
     {
         "book24_name": "מגילת איכה",
         "mam_parsed_file_stem": "Lamentations",
-        "mam_parsed_file_stem_old": "MAM-ChamMeg"
+        "mam_parsed_file_stem_old": "MAM-ChamMeg",
+        "number": 19
     },
     {
         "book24_name": "מגילת קהלת",
         "mam_parsed_file_stem": "Ecclesiastes",
-        "mam_parsed_file_stem_old": "MAM-ChamMeg"
+        "mam_parsed_file_stem_old": "MAM-ChamMeg",
+        "number": 20
     },
     {
         "book24_name": "מגילת אסתר",
         "mam_parsed_file_stem": "Esther",
-        "mam_parsed_file_stem_old": "MAM-ChamMeg"
+        "mam_parsed_file_stem_old": "MAM-ChamMeg",
+        "number": 21
     },
     {
         "book24_name": "ספר דניאל",
         "mam_parsed_file_stem": "Daniel",
-        "mam_parsed_file_stem_old": "MAM-KetAch"
+        "mam_parsed_file_stem_old": "MAM-KetAch",
+        "number": 22
     },
     {
         "book24_name": "ספר עזרא",
         "mam_parsed_file_stem": "Ezra-Neḥemiah",
-        "mam_parsed_file_stem_old": "MAM-KetAch"
+        "mam_parsed_file_stem_old": "MAM-KetAch",
+        "number": 23
     },
     {
         "book24_name": "ספר דברי הימים",
         "mam_parsed_file_stem": "Chronicles",
-        "mam_parsed_file_stem_old": "MAM-KetAch"
+        "mam_parsed_file_stem_old": "MAM-KetAch",
+        "number": 24
     },
     {
         "book24_name": "ספר ישעיהו",
         "mam_parsed_file_stem": "Isaiah",
-        "mam_parsed_file_stem_old": "MAM-NevAch"
+        "mam_parsed_file_stem_old": "MAM-NevAch",
+        "number": 10
     },
     {
         "book24_name": "ספר ירמיהו",
         "mam_parsed_file_stem": "Jeremiah",
-        "mam_parsed_file_stem_old": "MAM-NevAch"
+        "mam_parsed_file_stem_old": "MAM-NevAch",
+        "number": 11
     },
     {
         "book24_name": "ספר יחזקאל",
         "mam_parsed_file_stem": "Ezekiel",
-        "mam_parsed_file_stem_old": "MAM-NevAch"
+        "mam_parsed_file_stem_old": "MAM-NevAch",
+        "number": 12
     },
     {
         "book24_name": "ספר תרי עשר",
         "mam_parsed_file_stem": "The-12-Minor-Prophets",
-        "mam_parsed_file_stem_old": "MAM-NevAch"
+        "mam_parsed_file_stem_old": "MAM-NevAch",
+        "number": 13
     },
     {
         "book24_name": "ספר יהושע",
         "mam_parsed_file_stem": "Joshua",
-        "mam_parsed_file_stem_old": "MAM-NevRish"
+        "mam_parsed_file_stem_old": "MAM-NevRish",
+        "number": 16
     },
     {
         "book24_name": "ספר שופטים",
         "mam_parsed_file_stem": "Judges",
-        "mam_parsed_file_stem_old": "MAM-NevRish"
+        "mam_parsed_file_stem_old": "MAM-NevRish",
+        "number": 17
     },
     {
         "book24_name": "ספר שמואל",
         "mam_parsed_file_stem": "Samuel",
-        "mam_parsed_file_stem_old": "MAM-NevRish"
+        "mam_parsed_file_stem_old": "MAM-NevRish",
+        "number": 18
     },
     {
         "book24_name": "ספר מלכים",
         "mam_parsed_file_stem": "Kings",
-        "mam_parsed_file_stem_old": "MAM-NevRish"
+        "mam_parsed_file_stem_old": "MAM-NevRish",
+        "number": 19
     },
     {
         "book24_name": "ספר תהלים",
         "mam_parsed_file_stem": "Psalms",
-        "mam_parsed_file_stem_old": "MAM-SifEm"
+        "mam_parsed_file_stem_old": "MAM-SifEm",
+        "number": 20
     },
     {
         "book24_name": "ספר משלי",
         "mam_parsed_file_stem": "Proverbs",
-        "mam_parsed_file_stem_old": "MAM-SifEm"
+        "mam_parsed_file_stem_old": "MAM-SifEm",
+        "number": 21
     },
     {
         "book24_name": "ספר איוב",
         "mam_parsed_file_stem": "Job",
-        "mam_parsed_file_stem_old": "MAM-SifEm"
+        "mam_parsed_file_stem_old": "MAM-SifEm",
+        "number": 22
     },
     {
         "book24_name": "ספר בראשית",
         "mam_parsed_file_stem": "Genesis",
-        "mam_parsed_file_stem_old": "MAM-Torah"
+        "mam_parsed_file_stem_old": "MAM-Torah",
+        "number": 1
     },
     {
         "book24_name": "ספר שמות",
         "mam_parsed_file_stem": "Exodus",
-        "mam_parsed_file_stem_old": "MAM-Torah"
+        "mam_parsed_file_stem_old": "MAM-Torah",
+        "number": 2
     },
     {
         "book24_name": "ספר ויקרא",
         "mam_parsed_file_stem": "Levit",
-        "mam_parsed_file_stem_old": "MAM-Torah"
+        "mam_parsed_file_stem_old": "MAM-Torah",
+        "number": 3
     },
     {
         "book24_name": "ספר במדבר",
         "mam_parsed_file_stem": "Numbers",
-        "mam_parsed_file_stem_old": "MAM-Torah"
+        "mam_parsed_file_stem_old": "MAM-Torah",
+        "number": 4
     },
     {
         "book24_name": "ספר דברים",
         "mam_parsed_file_stem": "Deuter",
-        "mam_parsed_file_stem_old": "MAM-Torah"
+        "mam_parsed_file_stem_old": "MAM-Torah",
+        "number": 5
     }
 ]
